@@ -20,4 +20,4 @@ if(computador == usuario){
     acertou = false
     console.log('ERROU! Boa sorte na proxima...'); 
 }
-
+ 

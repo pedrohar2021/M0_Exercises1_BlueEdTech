@@ -33,4 +33,4 @@ console.log(`${notas100} notas de R$100,00`);
 console.log(`${notas50} notas de R$50,00`);
 console.log(`${notas10} notas de R$10,00`);
 console.log(`${notas5} notas de R$5,00`);
-console.log(`${notas1} notas de R$1,00`);
+console.log(`${notas1} notas de R$1,00`); 
